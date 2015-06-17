@@ -50,6 +50,7 @@ baseurl: ""
 #header links
 headerurl:
   documentation: "https://drive.google.com/folderview?id=0BzreC3_e-PzgcjBueXJtQnZDc2M&usp=drive_web"
+  areainformation: "http://www.vagateway.com/stores"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
