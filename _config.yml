@@ -46,6 +46,10 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+#header links
+headerurl:
+  documentation: "https://drive.google.com/folderview?id=0BzreC3_e-PzgcjBueXJtQnZDc2M&usp=drive_web"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
