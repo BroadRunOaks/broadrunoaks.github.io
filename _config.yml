@@ -51,6 +51,7 @@ baseurl: ""
 headerurl:
   documentation: "https://drive.google.com/folderview?id=0BzreC3_e-PzgcjBueXJtQnZDc2M&usp=drive_web"
   areainformation: "http://www.vagateway.com/stores"
+  redfin: "https://www.redfin.com/neighborhood/180069/VA/Gainesville-Prince-William-County-VA/Broad-Run-Oaks/real-estate#!uipt=4%2C3%2C2%2C1&v=8&sst=&region_id=180069&region_type=1&market=dc"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
