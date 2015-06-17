@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Our Community
 permalink: /about/
 ---
-
-#About Our Community
 
 Broad Run Oaks is located in Gainesville, Virginia approximately 35 miles outside of Washington, D.C.  
 The community was jointly constructed by Richmond American and Ryland homebuilders beginning in 2000.  
