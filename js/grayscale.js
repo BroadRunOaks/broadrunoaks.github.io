@@ -78,7 +78,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#000000"
+                "color": "#000066"
             }, {
                 "lightness": 29
             }, {
@@ -88,7 +88,7 @@ function init() {
             "featureType": "road.arterial",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000000"
+                "color": "#000033"
             }, {
                 "lightness": 18
             }]
