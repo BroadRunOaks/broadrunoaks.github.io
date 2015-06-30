@@ -43,7 +43,7 @@ function init() {
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(38.7777019, -77.6131908), // New York
 
-        // Disables the default Google Maps UI components
+     /*   // Disables the default Google Maps UI components
         disableDefaultUI: true,
         scrollwheel: true,
         draggable: true,
@@ -157,7 +157,7 @@ function init() {
             }, {
                 "weight": 1.2
             }]
-        }]
+        }]*/
     };
 
     // Get the HTML DOM element that will contain your map 
