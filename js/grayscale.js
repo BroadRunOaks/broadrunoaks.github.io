@@ -43,11 +43,11 @@ function init() {
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(38.7777019, -77.6131908), // New York
 
-     /*   // Disables the default Google Maps UI components
-        disableDefaultUI: true,
-        scrollwheel: true,
+        // Disables the default Google Maps UI components
+        disableDefaultUI: false,
+        scrollwheel: false,
         draggable: true,
-
+         /*
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
         styles: [{
