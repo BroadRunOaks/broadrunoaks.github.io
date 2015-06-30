@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>BroadRun Oaks</name>
+<description>Boundary of BRO</description>
+<Style id="Lump">
+<LineStyle><color>CD0000FF</color><width>2</width></LineStyle>
+<PolyStyle><color>00FF0000</color></PolyStyle>
+</Style>
+<Style id="Path">
+<LineStyle><color>FF0000FF</color><width>3</width></LineStyle>
+</Style>
+<Style id="markerstyle">
+<IconStyle><Icon><href>
+http://maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png
+</href></Icon></IconStyle>
+</Style>
+<Placemark><name>BRO</name>
+<description>YES</description>
+<styleUrl>#Lump</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+-77.607551,38.782859,0.0 
+-77.608323,38.782692,0.0 
+-77.610769,38.780016,0.0 
+-77.614202,38.779982,0.0 
+-77.618108,38.778978,0.0 
+-77.617164,38.774462,0.0 
+-77.614846,38.772321,0.0 
+-77.611542,38.775031,0.0 
+-77.609611,38.777808,0.0 
+-77.607336,38.781120,0.0 
+-77.607293,38.782658,0.0 
+-77.607551,38.782859,0.0 
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>
