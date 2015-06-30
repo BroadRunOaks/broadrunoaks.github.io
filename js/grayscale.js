@@ -96,7 +96,7 @@ function init() {
             "featureType": "road.local",
             "elementType": "geometry",
             "stylers": [{
-                "color": "#000022"
+                "color": "#000011"
             }, {
                 "lightness": 16
             }]
