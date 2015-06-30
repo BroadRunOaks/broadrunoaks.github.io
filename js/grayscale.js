@@ -166,7 +166,10 @@ function init() {
 
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
-
+    var ctaLayer = new google.maps.KmlLayer({
+        url: './kml/BRO.kml'
+      });
+  ctaLayer.setMap(map);
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     /*var image = 'img/map-marker.png';
     var myLatLng = new google.maps.LatLng(38.7777019, -77.6131908);
