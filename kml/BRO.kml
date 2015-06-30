@@ -3,7 +3,7 @@
 <Document><name>BroadRun Oaks</name>
 <description>Boundary of BRO</description>
 <Style id="Lump">
-<LineStyle><color>CD0000FF</color><width>2</width></LineStyle>
+<LineStyle><color>CD0000FF</color><width>4</width></LineStyle>
 <PolyStyle><color>00FF0000</color></PolyStyle>
 </Style>
 <Style id="Path">
