@@ -78,7 +78,7 @@ function init() {
             "featureType": "road.highway",
             "elementType": "geometry.stroke",
             "stylers": [{
-                "color": "#000066"
+                "color": "#000011"
             }, {
                 "lightness": 29
             }, {
