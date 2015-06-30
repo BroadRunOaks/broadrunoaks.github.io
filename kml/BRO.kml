@@ -18,7 +18,7 @@ http://maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png
 <description>YES</description>
 <styleUrl>#Lump</styleUrl>
 <Polygon>
-<tessellate>1</tessellate>
+<tessellate>2</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs><LinearRing><coordinates>
 -77.607551,38.782859,0.0 
