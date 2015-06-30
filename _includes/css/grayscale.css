@@ -62,7 +62,7 @@ a:focus {
 }
 
 .navbar-custom {
-    font-size:.75rem;
+    font-size:1rem;
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
