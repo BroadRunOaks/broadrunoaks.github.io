@@ -181,4 +181,6 @@ function init() {
         map: map,
         icon: image
     });*/
+    
+    $(window).trigger('scroll');
 }
