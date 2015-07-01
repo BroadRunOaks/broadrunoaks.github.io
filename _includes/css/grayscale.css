@@ -267,7 +267,8 @@ a:focus {
 }
 
  a.contact{
-      color:white
+      color:white;
+      border-bottom:1px silver solid
  }
 
 #map {
