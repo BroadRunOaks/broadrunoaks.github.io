@@ -263,10 +263,12 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    a{
-      color:white
-    }
+   
 }
+
+ a.contact{
+      color:white
+ }
 
 #map {
     width: 100%;
