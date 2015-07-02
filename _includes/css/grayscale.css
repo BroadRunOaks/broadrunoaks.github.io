@@ -375,8 +375,7 @@ body {
 
 #map_section{
     cursor:pointer;
+     background:#232323;
 }
 
-#map_wrapper{
-    background:#232323;
-}
+
