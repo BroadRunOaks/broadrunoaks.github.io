@@ -374,6 +374,7 @@ body {
 }
 
 #map_section{
+    padding-top:30px;
     cursor:pointer;
      background:#232323;
 }
