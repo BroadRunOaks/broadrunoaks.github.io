@@ -303,7 +303,7 @@ a:focus {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     margin: 10px 0px 10px 0px;
-    background:#219ab3;
+    background-color:#219ab3;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
