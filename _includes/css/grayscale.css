@@ -264,7 +264,8 @@ a:focus {
     background: url(/img/vagatewayhome2.jpg) no-repeat center center scroll;
     -webkit-filter: grayscale(50%);
     text-shadow: 2px 2px 4px #000000;
-
+    
+    min-height:400px;
        
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
