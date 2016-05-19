@@ -256,7 +256,9 @@ a:focus {
 .content-section {
     padding-top: 100px;
 }
-
+.schools-section {
+     background: linear-gradient( rgba(0, 0, 0, 1), rgba(0, 0, 0, .3) );
+}
 .area-section {
     width: 100%;
     padding: 50px 0;
