@@ -401,3 +401,10 @@ body {
      clear:both;
      text-color:#efefef
 }
+
+h2.about-title{
+    margin-bottom:5px;    
+}
+a.about-title{
+    font-size:1rem;
+}
