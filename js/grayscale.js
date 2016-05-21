@@ -165,13 +165,13 @@ function init() {
     var mapElement = document.getElementById('map');
 
     // Create the Google Map using out element and options defined above
-    var map = new google.maps.Map(mapElement, mapOptions);
+    /*var map = new google.maps.Map(mapElement, mapOptions);
     var ctaLayer = new google.maps.KmlLayer('http://broadrunoaks.com/kml/BRO.kml?'+(new Date()).getTime());
    
     ctaLayer.setMap(map);
     center = map.getCenter();
     google.maps.event.addDomListener(window, 'resize', function() {
-    map.setCenter(center);
+    map.setCenter(center);*/
 });
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     /*var image = 'img/map-marker.png';
