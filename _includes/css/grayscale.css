@@ -265,7 +265,7 @@ a:focus {
     color: #fff;
     background: linear-gradient( rgba(0, 0, 0, .5), rgba(0, 0, 0, .4) ), url(/img/vagatewayhome2.jpg) no-repeat center center scroll;
     -webkit-filter: grayscale(50%);
-    text-shadow: 4px 4px 1px #000000;
+    //text-shadow: 2px 2px 4px #000000;
     
     min-height:400px;
        
