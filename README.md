@@ -1,4 +1,4 @@
-Grayscale Jekyll theme
+The Broadrun Oaks Website, using the Grayscale Jekyll theme
 =========================
 
 Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
